@@ -7,4 +7,5 @@ cout<<"waaaaaaa";
   {
     cout<<"bagi duit bg";
   }
+  cout<<"aaaa";
 }
