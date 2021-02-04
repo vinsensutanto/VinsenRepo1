@@ -2,5 +2,9 @@
 using namespace std;
 
 int main() {
-cout<<"Yo hallo bang";
+cout<<"waaaaaaa";
+  for(int a=1;a<=5;a++)
+  {
+    cout<<"bagi duit bg";
+  }
 }
